@@ -11,5 +11,3 @@ $(TARGET): src.o
 src.o: src.cpp
 	$(CC) $(CFLAGS) -c src.cpp
 
-clean:
-	rm -f $(TARGET) src.o
