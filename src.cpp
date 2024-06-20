@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello this is a test message" << std::endl;
+    std::cout << "Hello this is user aghosh" << std::endl;
     return 0;
 }
